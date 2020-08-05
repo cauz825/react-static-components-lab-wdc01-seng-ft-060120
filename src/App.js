@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import { CatComponent } from 'react'
-import {GraceHopperQuoteComponent } from 'react'
-import { MouseComponent } from 'react'
+import CatComponent from './CatComponent'
+import GraceHopperQuoteComponent from './GraceHopperQuoteComponent'
+import MouseComponent from './MouseComponent'
 
 
 
